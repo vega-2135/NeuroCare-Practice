@@ -4,14 +4,18 @@
     border: none;
 }
 
+/* General styles */
+
+
 /* Header */
 header {
-    background-color: lightblue;
+    background-color: white;
+    height: 180px;
 }
 
 /* Main content */
 main {
-    background-color: white;
+    background-color: lightblue;
 }
 
 
