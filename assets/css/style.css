@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/* Header */
+header {
+    background-color: lightblue;
+}
+
+/* Main content */
+main {
+    background-color: white;
+}
+
+
+/* Footer */
+footer {
+    background-color: grey;
+}
