@@ -1,21 +1,43 @@
 * {
     margin: 0;
     padding: 0;
-    border: none;
+    box-sizing: border-box;
 }
 
 /* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+
 
 
 /* Header */
 header {
     background-color: white;
     height: 180px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-left: 15px;
+    box-shadow: 0 2px 2px #3a3a3a;
+    z-index: 99;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+    top: 0;
+    right: 0;
 }
 
 /* Main content */
 main {
     background-color: lightblue;
+    flex: 1 0 auto;
 }
 
 
