@@ -25,10 +25,20 @@ header {
     z-index: 99;
 }
 
-#menu>li {
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+    color: black;
+}
+
+#menu > li {
     margin-bottom: 1em;
-    top: 0;
-    right: 0;
+}
+
+.active {
+    border-bottom: 1px  solid black;
 }
 
 /* Main content */
