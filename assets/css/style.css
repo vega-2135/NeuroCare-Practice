@@ -98,3 +98,41 @@ main {
 footer {
     background-color: grey;
 }
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    header {
+        justify-content: space-between;
+        box-shadow: none;
+    }
+
+    h1 {
+        padding-top: 10px;
+    }
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        top: 0;
+        align-self: end;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .dropdown_label {
+        display: none;
+    }
+
+    main {
+        
+    }
+}
