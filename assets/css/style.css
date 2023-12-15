@@ -96,8 +96,45 @@ main {
 
 /* Footer */
 footer {
-    background-color: grey;
+    background-color: rgb(252, 249, 249);
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+    color: #373636cc;
 }
+
+#contact_info h3, #opening_hours h3 {
+    text-align: center;
+    padding: 5px 0 5px 0;
+}
+
+#contact_info p {
+   padding-left: 25px;
+}
+
+#opening_hours p {
+    text-align: center;
+}
+
+#social-media {
+    font-size: 150%;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#social-media ul {
+    display: flex;
+    padding: 0;
+    list-style-type: none; 
+}
+
+#social-media li {
+    margin: 0 10px;
+}
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
