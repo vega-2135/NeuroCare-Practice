@@ -47,7 +47,7 @@ header a {
 }
 
 .active {
-    border-bottom: 1px  solid black;
+    border-bottom: 1px  solid #949090cc;
 }
 
 /* Navigation bar and drop down toggle */
@@ -137,8 +137,8 @@ footer {
         margin-top: 157px;
     }
 }
-/* Media query: tablets and larger (1595px and up) */
-@media screen and (min-width: 1595px) {
+/* Media query: tablets and larger (992px and up) */
+@media screen and (min-width: 992px) {
     nav {
         font-size: 24px;
     }
@@ -147,7 +147,12 @@ footer {
         margin-right: 70px;
     }
 
+    #menu a:hover {
+        border-bottom: 1px solid #949090cc;
+    }
+
     .logo {
         width: 300px;
     }
+
 }
