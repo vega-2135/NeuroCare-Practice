@@ -122,12 +122,16 @@ main p {
     font-size: 90%;
 }
 
+.hightlight {
+    font-weight: bold;
+}
+
 /* Footer */
 footer {
     background-color: rgb(252, 249, 249);
     display: flex;
     flex-direction: column;
-    margin-top: auto;
+    margin-top: 50px;
     color: #373636cc;
 }
 
