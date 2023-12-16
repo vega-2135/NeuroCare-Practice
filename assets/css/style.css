@@ -173,6 +173,50 @@ footer {
     main {
         margin-top: 157px;
     }
+
+    /* Footer section */
+    footer {
+        flex-direction: row;
+    }
+
+    footer div {
+        flex: 1;
+        min-width: 0;
+        box-sizing: border-box;
+        padding: 20px;
+    }
+
+    #contact_info {
+        padding-left: 45px;
+    }
+
+    #contact_info h3 {
+        
+    }
+
+    #contact_info p {
+        text-align: left;
+        padding: 5px 0 5px 0;
+    }
+
+    #opening_hours {
+        justify-content: center;
+    }
+
+    #contact_info i {
+        margin-right: 10px; 
+    }
+
+    #opening_hours h3 {
+        padding-bottom: 10px;
+    }
+    
+
+    #social-media {
+        justify-content: flex-end;
+        padding-left: 50px;
+    }
+
 }
 /* Media query: tablets and larger (992px and up) */
 @media screen and (min-width: 992px) {
