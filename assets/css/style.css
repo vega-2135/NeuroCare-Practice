@@ -89,7 +89,7 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    background-color: white;
     flex: 1 0 auto;
     margin-top: 150px;
 }
@@ -102,6 +102,10 @@ main p {
 
 .break {
     margin-bottom: 10px;
+}
+
+#welcome_message h2, .purple {
+    color: purple;
 }
 
 
