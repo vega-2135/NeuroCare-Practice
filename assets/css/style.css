@@ -108,6 +108,14 @@ main p {
     color: purple;
 }
 
+#team h2 {
+    margin-top: 50px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: purple;
+}
+
 
 /* Footer */
 footer {
