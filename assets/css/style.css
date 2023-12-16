@@ -108,7 +108,7 @@ main p {
     color: purple;
 }
 
-#team h2 {
+#team h2, #news h2 {
     margin-top: 50px;
     margin-bottom: 15px;
     text-align: center;
@@ -116,6 +116,11 @@ main p {
     color: purple;
 }
 
+#team p {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 90%;
+}
 
 /* Footer */
 footer {
