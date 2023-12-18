@@ -171,8 +171,11 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     header {
+        width: 768px;
         justify-content: space-between;
         box-shadow: none;
+        padding-right: 30px;
+        overflow: hidden;
     }
 
     h1 {
@@ -202,13 +205,59 @@ footer {
         display: none;
     }
 
-    main {
-        margin-top: 157px;
+
+    /* Main section */
+
+    body {
+        align-items: center;
     }
 
+    main {
+        width: 700px;
+        margin-top: 157px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #welcome_message h2 {
+        margin: 50px 0 20px 0;
+        text-align: center;
+    }
+
+    #Welcome_message p {
+        justify-content: ;
+    }
+
+    #front_desk {
+        width: 700px;
+        height: 467px;
+        margin-top: 30px;
+    }
+
+    .images {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 20px; 
+    }
+
+    #team img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px; 
+    }
+
+    #team p {
+        text-align: center;
+        width: 100%;
+    }
+
+   
     /* Footer section */
     footer {
         flex-direction: row;
+        width: 768px;
     }
 
     footer div {
