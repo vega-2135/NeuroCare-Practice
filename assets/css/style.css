@@ -28,7 +28,7 @@ header {
     z-index: 99;
     display: flex;
     justify-content: center;
-    position: fixed;
+    position: relative;
 }
 
 header a {
@@ -365,5 +365,24 @@ footer {
         margin-right: 10px;
         width: 1024px;
     }
+
+    form {
+        display: block;
+    }
   
 }
+
+
+
+
+/****************
+* Main page
+****************/
+
+
+
+/************************
+*
+* Contact page styles
+*
+**************************/
