@@ -136,8 +136,9 @@ main p {
     border: 1px solid purple;
 }
 
-.spectrum-diseases h3, .spectrum-diagnosis h3 {
+.introduction h2, .spectrum-diseases h3, .spectrum-diagnosis h3 {
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 /* Footer */
