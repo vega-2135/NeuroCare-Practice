@@ -369,6 +369,23 @@ footer {
     form {
         display: block;
     }
+
+
+    #team .images {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    #team .team_image {
+        display: block;
+    }
+
+    .welcome_message_contents {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
   
 }
 
