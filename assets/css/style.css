@@ -36,6 +36,10 @@ header a {
     color: inherit;
 }
 
+body.services-page header {
+    box-shadow: none;
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -124,6 +128,16 @@ main p {
 
 .hightlight {
     font-weight: bold;
+}
+
+#services-main {
+    max-width: 100%;
+    height: auto2;
+    border: 1px solid purple;
+}
+
+.spectrum-diseases h3, .spectrum-diagnosis h3 {
+    margin-top: 50px;
 }
 
 /* Footer */
@@ -224,10 +238,6 @@ footer {
         text-align: center;
     }
 
-    #Welcome_message p {
-        justify-content: ;
-    }
-
     #front_desk {
         width: 700px;
         height: 467px;
@@ -240,9 +250,6 @@ footer {
         justify-content: center;
         align-items: center;
         gap: 20px; 
-    }
-
-    #team img {
         max-width: 100%;
         height: auto;
         border-radius: 8px; 
@@ -269,10 +276,6 @@ footer {
 
     #contact_info {
         padding-left: 30px;
-    }
-
-    #contact_info h3 {
-        
     }
 
     #contact_info p {
@@ -302,6 +305,10 @@ footer {
 }
 /* Media query: tablets and larger (992px and up) */
 @media screen and (min-width: 992px) {
+    header {
+        width: 992px;
+    }
+
     nav {
         font-size: 24px;
     }
@@ -345,4 +352,17 @@ footer {
         padding-right: 0;
     }
 
+}
+/* Media query: laptops (1024px and up) */
+@media screen and (min-width: 1024px) {
+    #menu {
+        margin-right: 10px;
+        width: 1024px;
+    }
+
+    main {
+        margin-right: 10px;
+        width: 1024px;
+    }
+  
 }

@@ -226,11 +226,12 @@ For more details on GitHub Pages, refer to the [GitHub Pages Documentation](http
   - All images on the website were sourced from Pexels.
   - Image credits and links to the pictures along with the names of the owners are listed below:
 
-    1. [Homepage](https://www.pexels.com/photo/a-doctor-wearing-scrubs-8460157/) - Photo by [Los  Muertos Crew](https://www.pexels.com/@cristian-rojas/)
-    2. [Homepage](https://www.pexels.com/photo/a-doctor-holding-a-clipboard-5214958/) - Photo by [Antoni  Shkraba](https://www.pexels.com/@shkrabaanthony/)
-    3. [Homepage](https://www.pexels.com/photo/a-woman-wearing-a-stethoscope-6749773/) - Photo by [Antoni  Shkraba](https://www.pexels.com/@shkrabaanthony/)
-    4. [Homepage](https://www.pexels.com/photo/woman-wearing-white-top-while-doing-thumbs-up-3790805/) - Photo by [Andrea Piacquadio](https://www.pexels.com/@olly/)
-    5. [Services](https://www.pexels.com/photo/medical-imaging-of-the-brain-5723875/) - Photo by [cottonbro  studio](https://www.pexels.com/@cottonbro/)
-    6. [Services](https://www.pexels.com/photo/man-during-examination-with-use-of-brainscope-19034027/) - Photo by [KOS Chiropractic  Integrative Health](https://www.pexels.com/@kos-chiropractic-integrative-health-716706805/)
+    1. [Homepage] (https://www.pexels.com/photo/spacious-modern-lobby-with-stylish-furniture-6899544/) - Photo by [Max Rahubovskiy] (https://www.pexels.com/@heyho/)
+    2. [Homepage](https://www.pexels.com/photo/a-doctor-wearing-scrubs-8460157/) - Photo by [Los  Muertos Crew](https://www.pexels.com/@cristian-rojas/)
+    3. [Homepage](https://www.pexels.com/photo/a-doctor-holding-a-clipboard-5214958/) - Photo by [Antoni  Shkraba](https://www.pexels.com/@shkrabaanthony/)
+    4. [Homepage](https://www.pexels.com/photo/a-woman-wearing-a-stethoscope-6749773/) - Photo by [Antoni  Shkraba](https://www.pexels.com/@shkrabaanthony/)
+    5. [Homepage](https://www.pexels.com/photo/woman-wearing-white-top-while-doing-thumbs-up-3790805/) - Photo by [Andrea Piacquadio](https://www.pexels.com/@olly/)
+    6. [Services](https://www.pexels.com/photo/medical-imaging-of-the-brain-5723875/) - Photo by [cottonbro  studio](https://www.pexels.com/@cottonbro/)
+    7. [Services](https://www.pexels.com/photo/man-during-examination-with-use-of-brainscope-19034027/) - Photo by [KOS Chiropractic  Integrative Health](https://www.pexels.com/@kos-chiropractic-integrative-health-716706805/)
 
 ##  Acknowledgement
