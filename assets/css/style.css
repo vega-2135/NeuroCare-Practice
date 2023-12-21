@@ -186,11 +186,6 @@ footer {
     max-width: 280px;
 }
 
-img {
-    max-width: 100%;
-}
-
-
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     header {
@@ -392,6 +387,10 @@ img {
 
     .welcome_image_container {
         max-width: 50%;
+    }
+
+    .welcome_image_image {
+        max-width: 100%;
     }
   
 }
