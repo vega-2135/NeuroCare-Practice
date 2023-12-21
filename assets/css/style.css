@@ -17,8 +17,6 @@ body {
 }
 
 
-
-
 /* Header */
 header {
     background-color: white;
@@ -95,22 +93,23 @@ nav {
 main {
     background-color: white;
     flex: 1 0 auto;
-    margin-top: 150px;
+    margin-top: 1em;
+    font-family: 'Roboto', sans-serif;  
 }
 
+
 main p {
-    color: black;
-    font-family: 'Lora', serif;
-    font-family: 'Roboto', sans-serif;  
+    color: black; 
 }
 
 .break {
     margin-bottom: 10px;
 }
 
-#welcome_message h2, .purple {
+#welcome h2, .purple {
     color: purple;
 }
+
 
 #team h2, #news h2 {
     margin-top: 50px;
@@ -182,6 +181,15 @@ footer {
     margin: 0 10px;
 }
 
+.welcome_image_container {
+    display: block;
+    max-width: 280px;
+}
+
+img {
+    max-width: 100%;
+}
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -229,20 +237,14 @@ footer {
 
     main {
         width: 700px;
-        margin-top: 157px;
+        margin-top: 1em;
         justify-content: center;
         align-items: center;
     }
 
-    #welcome_message h2 {
+    #welcome h2 {
         margin: 50px 0 20px 0;
         text-align: center;
-    }
-
-    #front_desk {
-        width: 700px;
-        height: 467px;
-        margin-top: 30px;
     }
 
     .images {
@@ -328,6 +330,7 @@ footer {
 
     /* Footer section */
     footer {
+        width: 100%;
         font-size: 18px;
     }
 
@@ -385,6 +388,10 @@ footer {
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
+    }
+
+    .welcome_image_container {
+        max-width: 50%;
     }
   
 }
