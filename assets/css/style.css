@@ -140,8 +140,24 @@ main p {
     margin-bottom: 20px;
 }
 
+#contact_us {
+    font-family: 'Roboto', sans-serif;
+}
+
+#contact h2 {
+    margin: 50px 0 20px 0;
+    text-align: center;
+    color: purple;
+}
+
+#contact_text {
+    margin-bottom: 30px;
+    text-align: center;
+    margin: 0 15px 20px 15;
+}
+
 #form {
-    margin: 5px;
+    margin: 5px 20px;
 }
 
 #form_content {
