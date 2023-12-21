@@ -51,31 +51,33 @@
     <main>
         <section id="form">
             <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
-    
-                <label for="first_name">First Name</label>
-                <input id="first_name" class="text-input" type="text" name="first_name" required>
-                <br>
-                <label for="last_name">Last Name</label>
-                <input id="last_name" class="text-input" type="text" name="last_name" required>
-                <br>
-                <label for="email_address">Email Address</label>
-                <input id="email_address" class="text-input" type="email" name="email_address" required>
-                <br>
-                <div class="radio-buttons">
-                    <div>
-                        <label for="appointment">Road</label>
-                        <input id="appointment" type="radio" name="" value="road" required checked>
-                    </div>
-                    <div>
-                        <label for="recept">Trail</label>
-                        <input id="trail" type="radio" name="running_preference" value="trail" required>
-                    </div>
-                    <div>
-                        <label for="question">Both</label>
-                        <input id="both" type="radio" name="running_preference" value="both" required>
-                    </div>
+                <div id="form_content">
+                    <label for="first_name">First Name:<span class="required">*</span></label>
+                    <input id="first_name" class="text-input" type="text" name="first_name" required>
                 </div>
-                <button type="submit" class="join-button">Let's Run!</button>
+                <div id="form_content">
+                    <label for="last_name">Last Name:<span class="required">*</span></label>
+                    <input id="last_name" class="text-input" type="text" name="last_name" required>
+                </div>
+                <div id="form_content">
+                    <label for="email_address">Email Address:<span class="required">*</span></label>
+                    <input id="email_address" class="text-input" type="email" name="email_address" required>
+                </div>
+                <div id="form_content">
+                    <label for="reason">Contact Reason:<span class="required">*</span></label>
+                    <select id="reason" name="reason" required>
+                        <option value="appointment">Make an Appointment</option>
+                        <option value="recept">Request a Recept</option>
+                        <option value="inquiry">Inquiry</option>
+                    </select>
+                </div>
+                <div id="form_content">
+                    <label for="message" class="message">Message:<span class="required">*</span></label>
+                    <textarea id="message" rows="4" cols="87" maxlength="500" name="message"></textarea>
+                </div>
+                <div id="form_content">
+                    <button type="submit" class="join-button">Send</button>
+                </div>
             </form>
         </section>
         <section id="map"></section>

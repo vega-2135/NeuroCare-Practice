@@ -140,6 +140,20 @@ main p {
     margin-bottom: 20px;
 }
 
+#form {
+    margin: 5px;
+}
+
+#form_content {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.required {
+    color: red;
+}
+
 /* Footer */
 footer {
     background-color: rgb(252, 249, 249);
