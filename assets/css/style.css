@@ -431,7 +431,7 @@ footer {
     #team .images {
         display: flex;
         flex-direction: row;
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
     }
 
     #team .team_image {
