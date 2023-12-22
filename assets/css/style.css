@@ -377,6 +377,7 @@ footer {
         font-size: 1.2 rem;
         margin: 40px 0;
         padding-right: 50px;
+    }
 
 }
 /* Media query: tablets and larger (992px and up) */
@@ -401,29 +402,16 @@ footer {
     footer {
         width: 100%;
         font-size: 1rem;
-    }
-
-    #contact_info h3 {
-        text-align: left;
-        padding-left: 80px;
+        display: flex;
+        justify-content: center;
+        column-gap: 10%;
     }
 
     #contact_info {
-        padding-left: 90px;
+        margin-left: 20px;
     }
 
-    #opening_hours {
-        margin-right: 150px;
-    }
 
-    #social-media li {
-        margin-right: 80px; 
-        margin-top: 40px;
-    }
-
-    #social_media {
-        padding-right: 0;
-    }
 
 }
 /* Media query: laptops (1024px and up) */
