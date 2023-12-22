@@ -115,6 +115,12 @@ main p {
     color: purple;
 }
 
+.images {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+}
 
 #team h2, #news h2 {
     margin-top: 50px;
@@ -296,6 +302,13 @@ footer {
     main {
         width: 700px;
         margin-top: 1em;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .welcome_message_contents {
+        display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
     }
