@@ -269,6 +269,11 @@ footer {
         padding-right: 30px;
     }
 
+    .logo {
+        width: 60%;
+        height: 60%;
+    }
+
     nav {
         display: block;
         position: relative;
@@ -384,6 +389,10 @@ footer {
 @media screen and (min-width: 992px) {
     header {
         width: 992px;
+    }
+
+    .logo {
+        max-width: fit-content;
     }
 
     #menu > li {
