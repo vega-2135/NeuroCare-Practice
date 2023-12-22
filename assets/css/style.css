@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     color: black;
     max-width: 1800px;
+    margin: 1rem;
 }
 
 
@@ -142,6 +143,7 @@ main p {
 
 #services-main {
     max-width: 100%;
+    width: 100%;
     height: auto2;
     border: 1px solid purple;
 }
@@ -195,6 +197,10 @@ main p {
     margin-top: 25px;
     width: 90%;
     align-items: center;
+}
+
+.team_member_image {
+    max-width: 100%;
 }
 
 /****
