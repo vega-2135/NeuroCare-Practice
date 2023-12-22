@@ -202,6 +202,7 @@ footer {
     flex-direction: column;
     margin-top: 50px;
     color: #373636cc;
+    font-family: 'Roboto', sans-serif;
 }
 
 #contact_info h3, #opening_hours h3 {
@@ -266,6 +267,7 @@ footer {
         padding-right: 30px;
         top: 0;
         align-self: end;
+        font-family: 'Roboto', sans-serif;
     }
 
     #menu {
