@@ -242,6 +242,10 @@ footer {
     max-width: 280px;
 }
 
+.welcome_image_img {
+    max-width: 100%;
+    width: 100%;
+}
 
 
 /* Media query: tablets and larger (768px and up) */
@@ -441,11 +445,12 @@ footer {
     }
 
     .welcome_image_container {
-        max-width: 50%;
+        max-width: 100%;
     }
 
-    .welcome_image_image {
-        max-width: 100%;
+    .welcome_image_img {
+        width: auto;
+        max-width: none;
     }
   
 }
