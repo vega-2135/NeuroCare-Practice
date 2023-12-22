@@ -182,7 +182,7 @@ main p {
 }
 
 #form_content input, #form_content textarea {
-    padding-left: 2px;
+    padding: 5px;
 }
 
 .required {
