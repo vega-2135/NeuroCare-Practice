@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,6 +21,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
+
 <body>
     <!-- Header -->
     <header>
@@ -43,8 +45,8 @@
             </nav>
         </div>
 
-        
-        
+
+
     </header>
 
     <!-- Main content -->
@@ -55,61 +57,51 @@
                 <h2>Contact</h2>
             </div>
             <div id="contact_text">
-                <p>Let us know what we can help you with, whether it is an appointment or a prescription.</p>
+                <p>Let us know how we can help you</p>
             </div>
         </section>
 
-        <section id="form">
+        <div id="form">
             <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
-                <div id="form_content">
+                <div class="form_content">
                     <label for="first_name">First Name:<span class="required">*</span></label>
                     <input id="first_name" class="text-input" type="text" name="first_name" required>
                 </div>
-                <div id="form_content">
+                <div class="form_content">
                     <label for="last_name">Last Name:<span class="required">*</span></label>
                     <input id="last_name" class="text-input" type="text" name="last_name" required>
                 </div>
-                <div id="form_content">
+                <div class="form_content">
                     <label for="email_address">Email Address:<span class="required">*</span></label>
                     <input id="email_address" class="text-input" type="email" name="email_address" required>
                 </div>
-                <div id="form_content">
+                <div class="form_content">
                     <label for="reason">Contact Reason:<span class="required">*</span></label>
                     <select id="reason" name="reason" required>
+                        <option value="">--Please select an option--</option>
                         <option value="appointment">Make an Appointment</option>
                         <option value="prescription">Request a Prescription</option>
                         <option value="inquiry">Inquiry</option>
                     </select>
                 </div>
-                <div id="form_content">
+                <div class="form_content">
                     <label for="message" class="message">Message:<span class="required">*</span></label>
                     <textarea id="message" rows="4" cols="87" maxlength="500" name="message"></textarea>
                 </div>
-                <div id="form_content">
+                <div class="form_content">
                     <button type="submit" class="join-button">Send</button>
                 </div>
             </form>
-        </section>
+        </div>
 
-        <section id="location_info">
+        <div id="location_info">
             <div id="map">
-                <iframe 
-                width="100%" 
-                height="300" 
-                frameborder="0" 
-                scrolling="no" 
-                marginheight="0" 
-                marginwidth="0" 
-                src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Sonnenstra%C3%9Fe%2017,%2040227%20D%C3%BCsseldorf,%20Germany+(NeuroCare%20Practice)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-                title="google_maps">
-            </iframe>
+                <iframe id="location_gmap" width="300" height="300"
+                    src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Sonnenstra%C3%9Fe%2017,%2040227%20D%C3%BCsseldorf,%20Germany+(NeuroCare%20Practice)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+                    title="google_maps">
+                </iframe>
             </div>
-
-
-
-        </section>
-
-        <section id="opening-times"></section>
+        </div>
     </main>
 
     <!-- Footer -->
@@ -151,8 +143,9 @@
     </footer>
 
 
-     <!-- Font Awesome script -->
-     <script src="https://kit.fontawesome.com/4b6d9dae9f.js" crossorigin="anonymous"></script>
-    
+    <!-- Font Awesome script -->
+    <script src="https://kit.fontawesome.com/4b6d9dae9f.js" crossorigin="anonymous"></script>
+
 </body>
+
 </html>
