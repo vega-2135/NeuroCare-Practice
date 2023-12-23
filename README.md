@@ -4,6 +4,8 @@ Welcome to the GitHub repository for our NeuroCare Practice website! This projec
 
 ![mockup_of_pp1_project](assets/images/mockup_of_pp1_project.png)  
 
+ The live site can be found here: [NeuroCAre Practice](https://github.com/vega-2135/pp1_project-)
+
 ## About Us
 
 At NeuroCare Practice, we are committed to excellence in neurological care. Our team of experienced neurologists specializes in diagnosing and treating a wide range of neurological disorders. With a patient-centered approach, we strive to offer personalized care, cutting-edge treatments, and ongoing support.
