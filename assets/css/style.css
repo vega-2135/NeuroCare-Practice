@@ -132,6 +132,10 @@ main p {
   color: purple;
 }
 
+#news h2{
+  margin-top: 0;
+}
+
 #team p {
   text-align: center;
   margin-bottom: 30px;
