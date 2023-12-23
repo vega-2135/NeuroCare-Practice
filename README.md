@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our NeuroCare Practice website! This projec
 
 ![mockup_of_pp1_project](assets/images/mockup_of_pp1_project.png)  
 
- The live site can be found here: [NeuroCAre Practice](https://github.com/vega-2135/pp1_project-)
+ The live site can be found here: [NeuroCAre Practice](https://vega-2135.github.io/NeuroCare-Practice/)
 
 ## About Us
 
@@ -19,6 +19,39 @@ At NeuroCare Practice, we are committed to excellence in neurological care. Our 
 4. [Testing](#testing)
 5. [Deployment](#deployment)
 6. [Credits](#credits).
+
+## ## User Experience
+
+Welcome to the NeuroCare Practice website! Our platform is designed to provide a seamless and informative experience for users seeking neurology medical services. Here's a brief overview of the key aspects of your user experience:
+
+### 1. **Intuitive Navigation:**
+
+-   Our website features an intuitive and user-friendly navigation system, allowing visitors to easily find the information they need.
+-   The menu is logically organized, ensuring a smooth journey through different sections, including home, services and contact information.
+
+### 2. **Responsive Design:**
+
+-   NeuroCare Practice is optimized for various devices, ensuring a consistent and visually appealing experience whether you're accessing the site from a desktop, tablet, or smartphone.
+
+### 3. **Rich Content:**
+
+-   We've curated comprehensive content to provide users with detailed insights into our neurology medical practice. From service offerings to images from our practice and personnel, you'll find everything you need to know.
+
+### 4. **Performance:**
+
+-   NeuroCare Practice prioritizes performance, ensuring fast load times and smooth interactions, creating a pleasant and efficient browsing experience for our visitors.
+
+### 5. **Accessibility:**
+
+-   We're committed to making our website accessible to all users. NeuroCare Practice complies with web accessibility standards, ensuring an inclusive experience for individuals with disabilities.
+
+### How to Get Started:
+
+1.  **Visit our website:** [NeuroCare Practice](https://vega-2135.github.io/NeuroCare-Practice/)
+2.  **Explore our home, services and contact information.**
+3.  **Provide feedback:** We value your input. If you encounter any issues or have suggestions for improvement, please contact us via email.
+
+Thank you for choosing NeuroCare Practice. We strive to provide an excellent online experience to complement our exceptional medical services.
 
 ## Features
 
