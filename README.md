@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for our NeuroCare Practice website! This project is dedicated to providing a comprehensive online platform for our neurology clinic, aiming to deliver valuable information, resources, and a user-friendly experience for our patients, caregivers, and the broader community.
 
+![mockup_of_pp1_project](assets/images/mockup_of_pp1_project.png)  
+
 ## About Us
 
 At NeuroCare Practice, we are committed to excellence in neurological care. Our team of experienced neurologists specializes in diagnosing and treating a wide range of neurological disorders. With a patient-centered approach, we strive to offer personalized care, cutting-edge treatments, and ongoing support.
