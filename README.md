@@ -20,7 +20,7 @@ At NeuroCare Practice, we are committed to excellence in neurological care. Our 
 5. [Deployment](#deployment)
 6. [Credits](#credits).
 
-## ## User Experience
+## User Experience
 
 Welcome to the NeuroCare Practice website! Our platform is designed to provide a seamless and informative experience for users seeking neurology medical services. Here's a brief overview of the key aspects of your user experience:
 
