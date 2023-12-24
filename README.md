@@ -203,19 +203,23 @@ The NeuroCare Practice website underwent thorough testing across multiple browse
  The W3C Markup Validation Service was used to check for errors in html files.
  
  Index.html:
+
  ![index](assets/readme_images/index.png) 
 
  Services.html:
+
  ![services](assets/readme_images/services.png) 
 
- Contact.html
+ Contact.html:
+
  ![contact](assets/readme_images/contact.png) 
 
 ### CSS code validation:
-  The W3C CSS Validation Service was used to check for errors in style.css.
+ The W3C CSS Validation Service was used to check for errors in style.css.
 
-  Style.css:
-  ![style](assets/readme_images/style.png) 
+ Style.css:
+ 
+ ![style](assets/readme_images/style.png) 
 
 
 ## Deployment
