@@ -116,9 +116,6 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
 - **Header Navigation Bar:**  
   Found on every page, the navigation bar facilitates easy navigation across the website, enabling users to quickly locate the information they seek about our neurology services.
 
-- **Footer Copyright Info:**  
-  Displayed on every page, the copyright information in the footer safeguards the intellectual property rights of our neurology medical practice.
-
 - **Footer Social Icons:**  
   Accessible on every page, social icons in the footer provide users with a direct link to our clinic's social platforms, enhancing connectivity and engagement with our neurology community.
 
@@ -161,6 +158,56 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
   An online platform for high-quality stock photos, contributing to visually rich content on the website.
 
 ## Testing
+
+### User Story Testing:
+
+The website was tested to ensure the user story achieved the intended outcomes:
+
+- **Home Section:**
+  - Users have an informative welcome message.
+  - On different devices, the home section displays relevant photos from the practice and the personnel.
+  - Users are informed about currents events taking place in the practice.
+
+- **Service Section:**
+  - Uses are informed about the different medical conditions and diagnosis that are offered by the practice.
+
+- **Footer:**
+  - Social media profiles are accessible via icons in the footer.
+  - Relevant contact information is provided in this section.
+
+- **Contact Form:**
+  - Error messages appear for invalid email addresses.
+  - 'Required' attribute on all fields prevents submission if not filled.
+  - Successful submission reloads the page.
+
+- **Contacting Process:**
+  - All fields in the form must be filled in order to contact the medical practice.
+
+- **Link Behavior:**
+  - All links open in a new tab using 'target="_blank."'
+  - Manually tested to ensure all links point to the correct destinations.
+
+### Cross-Browser and Device Testing:
+
+The NeuroCare Practice website underwent thorough testing across multiple browsers and devices to ensure compatibility and responsiveness:
+
+- **Browsers:**
+  - Chrome, Safari, Internet Explorer, Firefox.
+
+- **Mobile Devices:**
+  - iPhone 4, 5, 7 (Chrome and Safari).
+  - iPad.
+  - Samsung Galaxy Fold.
+ 
+### HTL Code Validation:
+ The W3C Markup Validation Service was used to check for errors in html files.
+ 
+ Index.html:
+ ![index](~/Projects/code_institute/fullstack_bootcamp/test/index.png) 
+
+### CSS code validation:
+The W3C CSS Validation Service was used to check for errors in style.css.
+
 
 ## Deployment
 ### Deployment
