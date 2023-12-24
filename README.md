@@ -151,8 +151,8 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
 - **VSCode (Visual Studio Code):**  
   A lightweight and powerful code editor used for writing, editing, and debugging code efficiently.
 
-- **Balsamiq:**  
-  Wireframing tool used for creating mockups and prototypes, aiding in the design planning process.
+- **Techsini:**
+  Used to create mockup images of home page in different devices (phone, ipad, laptop, desktop).
 
 - **DeepDream Generator:**  
   Utilized for generating unique and artistic images, such as those incorporated into the logo design.
