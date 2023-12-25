@@ -63,7 +63,7 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
 
      ![team](assets/images/readme/team.png) 
 
-     ![news](assets/images/readme/team.png)
+     ![news](assets/images/readme/news.png)
 
    - **Key Components:**
      - **Welcoming Message:** A personalized greeting that conveys our commitment to quality care and patient well-being.
