@@ -131,8 +131,12 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
 - **Header Navigation Bar:**  
   Found on every page, the navigation bar facilitates easy navigation across the website, enabling users to quickly locate the information they seek about our neurology services.
 
+  ![menu_bar](assets/images/readme/menu.png)
+
 - **Footer Social Icons:**  
   Accessible on every page, social icons in the footer provide users with a direct link to our clinic's social platforms, enhancing connectivity and engagement with our neurology community.
+
+  ![footer](assets/images/readme/footer.png)
 
 ## Future Features
 
