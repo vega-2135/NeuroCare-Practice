@@ -59,6 +59,12 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
    - **Description:**
      The Home Page serves as the virtual front door to our neurology practice, offering a warm welcome to both current and prospective patients. It is designed to create a sense of familiarity and trust by providing a glimpse into the practice environment and introducing the dedicated team of professionals.
 
+     ![welcome](assets/images/readme/welcome.png) 
+
+     ![team](assets/images/readme/team.png) 
+
+     ![news](assets/images/readme/team.png)
+
    - **Key Components:**
      - **Welcoming Message:** A personalized greeting that conveys our commitment to quality care and patient well-being.
      - **Visual Tour:** Featuring images of our front desk, waiting area, and key areas of the practice, allowing visitors to virtually explore our clinic before their visit.
