@@ -83,6 +83,10 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
    - **Description:**
      The Services Page provides comprehensive information about the medical conditions managed, diagnosed, and treated at our neurology practice. It also details the range of diagnostic tests and procedures available, reinforcing our commitment to delivering high-quality and specialized neurological care.
 
+     ![med_conditions](assets/images/readme/med_conditions.png)
+
+     ![diagnosis](assets/images/readme/diagnosis.png)
+
    - **Key Components:**
      - **Medical Conditions:** An exhaustive list of neurological conditions that our practice specializes in managing, diagnosing, and treating. From common issues to rare disorders, we outline our expertise to guide patients in understanding our scope of services.
      - **Diagnostic Tests:** A detailed overview of diagnostic tests conducted at our facility, including but not limited to Electroencephalogram (EEG), Doppler Sonography, and other essential neurological assessments. 
