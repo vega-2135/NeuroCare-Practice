@@ -126,6 +126,8 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
 - **Header Logo:**  
   Present on every page, the logo serves as a recognizable symbol of our neurology medical practice. Clicking on the logo redirects users to the home page, ensuring a familiar and expected navigation experience.
 
+  ![logo](assets/images/logo2.png)
+
 - **Header Navigation Bar:**  
   Found on every page, the navigation bar facilitates easy navigation across the website, enabling users to quickly locate the information they seek about our neurology services.
 
