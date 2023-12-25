@@ -18,7 +18,7 @@ At NeuroCare Practice, we are committed to excellence in neurological care. Our 
 3. [Technologies Used](#technologies-used)
 4. [Testing](#testing)
 5. [Deployment](#deployment)
-6. [Credits](#credits).
+6. [Credits](#credits)
 
 ## User Experience
 
