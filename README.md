@@ -104,9 +104,8 @@ Thank you for choosing NeuroCare Practice. We strive to provide an excellent onl
    - **Description:**
      The Contact Page serves as a direct line of communication between our neurology practice and patients. It features a versatile contact form that allows patients to inquire about their health, request appointments, or seek assistance. Additionally, essential contact information, including our exact location on a map, opening hours, telephone number, and email address, is provided for the convenience of our patients.
 
-     ![form](assets/images/readme/form.png)
-     
-     ![map](assets/images/readme/map.png)
+     ![form](assets/images/readme/form.png)       ![map](assets/images/readme/map.png)
+
 
    - **Key Components:**
      - **Contact Form:** A user-friendly form that enables patients to submit inquiries, request appointments, or seek specific information. The form is designed to cater to the diverse needs of our patients, whether they have questions, want to schedule an appointment, or require assistance with prescription requests.
