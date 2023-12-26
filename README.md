@@ -1,6 +1,6 @@
 # NeuroCare Practice
 
-Welcome to the GitHub repository for our NeuroCare Practice website! This project is dedicated to providing a comprehensive online platform for our neurology clinic, aiming to deliver valuable information, resources, and a user-friendly experience for our patients, caregivers, and the broader community.
+NeuroCare Practice website is dedicated to providing a comprehensive online platform for our fictional neurology clinic, aiming to deliver valuable information, resources, and a user-friendly experience for our patients, caregivers, and the broader community.
 
 ![mockup_of_pp1_project](assets/images/mockup_of_pp1_project.png)  
 
