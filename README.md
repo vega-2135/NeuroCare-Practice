@@ -251,7 +251,7 @@ Our neurology medical practice website is hosted using GitHub Pages, providing a
 
 1. **GitHub Repository:**
    - Ensure you have a GitHub account. If not, [sign up here](https://github.com/).
-   - Navigate to the repository of our neurology website: [NeuroCare Preactice](https://github.com/vega-2135/pp1_project-).
+   - Navigate to the repository of our neurology website: [NeuroCare Preactice](https://github.com/vega-2135/NeuroCare-Practice).
 
 2. **GitHub Pages Configuration:**
    - In the GitHub repository, navigate to the "Settings" tab.
@@ -282,13 +282,13 @@ Our neurology medical practice website is hosted using GitHub Pages, providing a
    - Open a terminal or command prompt on your local machine.
    - Use the following command to clone the repository to your local environment:
      ```bash
-     git clone https://github.com/vega-2135/pp1_project-
+     git clone https://github.com/vega-2135/NeuroCare-Practice
      ```
 
 3. **Navigate to the Project:**
    - Change into the project directory:
      ```bash
-     cd https://github.com/vega-2135/pp1_project-
+     cd https://github.com/vega-2135/NeuroCare-Practice
      ```
 
 4. **View Locally:**
