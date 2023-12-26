@@ -276,7 +276,7 @@ Our neurology medical practice website is hosted using GitHub Pages, providing a
    - Any changes you push to the selected branch (e.g., `main`) will automatically update the hosted site.
 
 9. **Viewing the Published Site:**
-   - Visit the provided GitHub Pages link (e.g., `https://your-username.github.io/your-repo/`) to view the neurology medical practice website online.
+   - Visit the provided GitHub Pages link.
 
 #### Clone Repository:
    - Open a terminal or command prompt on your local machine.
