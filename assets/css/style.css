@@ -90,6 +90,15 @@ nav {
   color: #949090cc;
 }
 
+.active {
+  border: solid purple;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 /***
 *
 * Main content
